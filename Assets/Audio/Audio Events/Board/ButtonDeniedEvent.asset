@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee71f5adab9ddf4b977ba3a4ff21680, type: 3}
+  m_Name: ButtonDeniedEvent
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 8c9e13459224dcb4b93f7fdb6ba1eea5, type: 3}
+  volume:
+    minValue: 0.23940602
+    maxValue: 0.2901123
+  pitch:
+    minValue: 1.4487505
+    maxValue: 1.4487505
